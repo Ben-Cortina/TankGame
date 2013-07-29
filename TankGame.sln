@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankGame", "TankGame\TankGame\TankGame.csproj", "{EFA2F517-2348-497E-A1F2-9ED58F97EF43}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TankGameContent", "TankGame\TankGame\Content\TankGameContent.contentproj", "{83FA83CF-9636-4098-8050-7FF2909312FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA2F517-2348-497E-A1F2-9ED58F97EF43}.Debug|x86.ActiveCfg = Debug|x86
+		{EFA2F517-2348-497E-A1F2-9ED58F97EF43}.Debug|x86.Build.0 = Debug|x86
+		{EFA2F517-2348-497E-A1F2-9ED58F97EF43}.Release|x86.ActiveCfg = Release|x86
+		{EFA2F517-2348-497E-A1F2-9ED58F97EF43}.Release|x86.Build.0 = Release|x86
+		{83FA83CF-9636-4098-8050-7FF2909312FA}.Debug|x86.ActiveCfg = Debug|x86
+		{83FA83CF-9636-4098-8050-7FF2909312FA}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
